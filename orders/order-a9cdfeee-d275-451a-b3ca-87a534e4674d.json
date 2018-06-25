@@ -1,0 +1,24 @@
+{
+   "id":"a9cdfeee-d275-451a-b3ca-87a534e4674d",
+   "status":"done",
+   "crypto":"X12BTC",
+   "requestedSide":"buy",
+   "requestedQuantity":1,
+   "requestedPrice":0.00005160,
+   "price":0.0000516,
+   "coindeal":{
+      "clientOrderId":"a9cdfeee-d275-451a-b3ca-87a534e4674d",
+      "symbol":"X12BTC",
+      "side":"buy",
+      "status":"new",
+      "type":"limit",
+      "timeInForce":"GTC",
+      "quantity":1,
+      "price":0.0000516,
+      "cumQuantity":1,
+      "createdAt":"2018-06-25T07:18:17.000000Z",
+      "updatedAt":"2018-06-25T07:18:17.000000Z",
+      "stopPrice":null,
+      "expireTime":null
+   }
+}
